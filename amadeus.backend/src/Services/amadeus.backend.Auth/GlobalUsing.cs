@@ -1,0 +1,24 @@
+﻿global using Carter;
+global using Mapster;
+global using MediatR;
+global using FluentValidation;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Identity;
+global using System.Security.Cryptography;
+global using System.Text;
+
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.Extensions.Configuration;
+global using Login.API.Models;
+global using BuildingBlocks.Behaviors;
+global using Login.API;
+global using BuildingBlocks.CQRS;
+global using BuildingBlocks.Exceptions;
+global using Login.API.Helpers;
+global using Microsoft.IdentityModel.Tokens;
+global using System.IdentityModel.Tokens.Jwt;
+global using System.Security.Claims;
+global using Microsoft.Extensions.Options;
+global using BuildingBlocks.Num;
+global using BuildingBlocks.Exceptions.Handler;
