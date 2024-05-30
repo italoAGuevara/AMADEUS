@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dlvj+sHX2tU=",
+  "dgSpecHash": "9gbyoWXcCNc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Products\\Data\\Data.csproj",
+  "projectFilePath": "C:\\Users\\italo\\Documents\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Products\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\italo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\italo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

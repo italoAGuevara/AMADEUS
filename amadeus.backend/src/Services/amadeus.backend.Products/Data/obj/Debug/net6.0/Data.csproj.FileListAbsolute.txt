@@ -20,3 +20,25 @@ C:\Users\italo\Documents\PRUEBA TECNICA\AMADEUS\amadeus.backend\src\Services\ama
 C:\Users\italo\Documents\PRUEBA TECNICA\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
 C:\Users\italo\Documents\PRUEBA TECNICA\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\bin\Debug\net6.0\Application.dll
 C:\Users\italo\Documents\PRUEBA TECNICA\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\bin\Debug\net6.0\Application.pdb
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\bin\Debug\net6.0\Data.dll
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\bin\Debug\net6.0\Application.dll
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\bin\Debug\net6.0\BuildingBlockV6.dll
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\bin\Debug\net6.0\Domain.dll
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\bin\Debug\net6.0\Application.pdb
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\bin\Debug\net6.0\Domain.pdb
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\bin\Debug\net6.0\BuildingBlockV6.pdb
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\obj\Debug\net6.0\Data.sourcelink.json
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\obj\Debug\net6.0\Data.csproj.Up2Date
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\obj\Debug\net6.0\Data.dll
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\italo\Documents\AMADEUS\amadeus.backend\src\Services\amadeus.backend.Products\Data\obj\Debug\net6.0\ref\Data.dll
