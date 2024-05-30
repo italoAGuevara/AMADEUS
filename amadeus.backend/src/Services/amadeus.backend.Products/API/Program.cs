@@ -15,10 +15,7 @@ builder.Services.AddCors(options =>
 });
 
 // Add services to the container.
-builder.Services.AddDbContext<ApplicationDbContext>();
-builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-builder.Services.AddScoped(typeof(IRepository<>), typeof(RepositoryBase<>));
-builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddInfrastructureServices(builder.Configuration);
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

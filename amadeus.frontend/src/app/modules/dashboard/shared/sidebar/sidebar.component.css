@@ -1,0 +1,33 @@
+#bar{
+  margin-top: -8px;
+  margin-left: -1%;
+  margin-right: -0.5%;
+}
+
+img{
+  width : 200px;
+  margin-top: -3%;
+}
+
+
+
+/* Estilos para dispositivos de tamaño mediano (laptops) */
+@media (min-width: 800px) and (max-width: 1280px) {
+  img {
+    width: 200px; /* Tamaño de la imagen para dispositivos de tamaño mediano (laptops) */
+    margin-top: -5%;
+  }
+}
+
+/* Estilos para dispositivos de pantalla grande */
+@media (min-width: 1290px) {
+  .img {
+    width: 200px; /* Tamaño de la imagen para dispositivos de pantalla grande */
+  }
+}
+
+@media (min-width: 200px) and (max-width: 991.98px) {
+  img {
+    display: none;
+  }
+}

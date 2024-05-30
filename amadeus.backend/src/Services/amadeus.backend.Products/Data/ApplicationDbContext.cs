@@ -2,20 +2,18 @@
 {
     public class ApplicationDbContext : DbContext
     {
-        private readonly IConfiguration _configuration;
 
         public DbSet<Product> Products { get; set; }
         public DbSet<TransactionProduct> ProductsTransactions { get; set; }
 
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options, IConfiguration configuration) : base(options)
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
-            _configuration = configuration;
         }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer(_configuration.GetConnectionString("AMADEUS"));
-        }
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    //optionsBuilder.UseSqlServer(_configuration.GetConnectionString("AMADEUS"));
+        //}
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

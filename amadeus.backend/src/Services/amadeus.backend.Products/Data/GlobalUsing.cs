@@ -6,3 +6,5 @@ global using BuildingBlockV6.Contracts;
 global using Microsoft.Extensions.Logging;
 global using Application.Contracts;
 global using System.Collections;
+global using Data.Repositories;
+global using Microsoft.Extensions.DependencyInjection;
