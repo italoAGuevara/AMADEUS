@@ -105,6 +105,9 @@ amadeus.backend/src/Services/amadeus.backend.Auth/Migrations
 amadeus.backend/src/Services/amadeus.backend.Auth/bin
 amadeus.backend/src/Services/amadeus.backend.Auth/obj
 
+amadeus.backend/src/BuildingBlocks/BuildingBlocks/bin
+amadeus.backend/src/BuildingBlocks/BuildingBlocks/obj
+
 # StyleCop
 StyleCopReport.xml
 

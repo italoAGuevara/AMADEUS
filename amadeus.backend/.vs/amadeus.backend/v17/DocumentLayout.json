@@ -3,56 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{95517E01-0F8F-47E0-852E-61B862B42D12}|src\\Services\\amadeus.backend.Products\\API\\API.csproj|c:\\users\\italo\\documents\\prueba tecnica\\amadeus\\amadeus.backend\\src\\services\\amadeus.backend.products\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95517E01-0F8F-47E0-852E-61B862B42D12}|src\\Services\\amadeus.backend.Products\\API\\API.csproj|solutionrelative:src\\services\\amadeus.backend.products\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|c:\\users\\italo\\documents\\prueba tecnica\\amadeus\\amadeus.backend\\src\\services\\amadeus.backend.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|solutionrelative:src\\services\\amadeus.backend.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|c:\\users\\italo\\documents\\prueba tecnica\\amadeus\\amadeus.backend\\src\\services\\amadeus.backend.auth\\amadeus.backend.auth.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|solutionrelative:src\\services\\amadeus.backend.auth\\amadeus.backend.auth.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|c:\\users\\italo\\documents\\prueba tecnica\\amadeus\\amadeus.backend\\src\\services\\amadeus.backend.auth\\amadeus.backend.auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|solutionrelative:src\\services\\amadeus.backend.auth\\amadeus.backend.auth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|c:\\users\\italo\\documents\\prueba tecnica\\amadeus\\amadeus.backend\\src\\services\\amadeus.backend.auth\\usecases\\auth\\refreshtoken\\refreshtokenendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|solutionrelative:src\\services\\amadeus.backend.auth\\usecases\\auth\\refreshtoken\\refreshtokenendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|c:\\users\\italo\\documents\\prueba tecnica\\amadeus\\amadeus.backend\\src\\services\\amadeus.backend.auth\\usecases\\auth\\singin\\singinendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|solutionrelative:src\\services\\amadeus.backend.auth\\usecases\\auth\\singin\\singinendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|c:\\users\\italo\\documents\\prueba tecnica\\amadeus\\amadeus.backend\\src\\services\\amadeus.backend.auth\\usecases\\auth\\singin\\singinhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|solutionrelative:src\\services\\amadeus.backend.auth\\usecases\\auth\\singin\\singinhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|c:\\users\\italo\\documents\\prueba tecnica\\amadeus\\amadeus.backend\\src\\services\\amadeus.backend.auth\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|solutionrelative:src\\services\\amadeus.backend.auth\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|c:\\users\\italo\\documents\\prueba tecnica\\amadeus\\amadeus.backend\\src\\services\\amadeus.backend.auth\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|solutionrelative:src\\services\\amadeus.backend.auth\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|c:\\users\\italo\\documents\\prueba tecnica\\amadeus\\amadeus.backend\\src\\services\\amadeus.backend.auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{85314C30-2732-45DC-9867-7677FB1D07D6}|src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj|solutionrelative:src\\services\\amadeus.backend.auth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ED5AE00-D02E-4DB5-AA9F-A5C30EC31B09}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\italo\\documents\\prueba tecnica\\amadeus\\amadeus.backend\\src\\buildingblocks\\buildingblocks\\behaviours\\logginbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED5AE00-D02E-4DB5-AA9F-A5C30EC31B09}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\behaviours\\logginbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ED5AE00-D02E-4DB5-AA9F-A5C30EC31B09}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\italo\\documents\\prueba tecnica\\amadeus\\amadeus.backend\\src\\buildingblocks\\buildingblocks\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED5AE00-D02E-4DB5-AA9F-A5C30EC31B09}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ED5AE00-D02E-4DB5-AA9F-A5C30EC31B09}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\italo\\documents\\prueba tecnica\\amadeus\\amadeus.backend\\src\\buildingblocks\\buildingblocks\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED5AE00-D02E-4DB5-AA9F-A5C30EC31B09}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ED5AE00-D02E-4DB5-AA9F-A5C30EC31B09}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\italo\\documents\\prueba tecnica\\amadeus\\amadeus.backend\\src\\buildingblocks\\buildingblocks\\modelsbase\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED5AE00-D02E-4DB5-AA9F-A5C30EC31B09}|src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:src\\buildingblocks\\buildingblocks\\modelsbase\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 71,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,170 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "amadeus.backend.Auth",
-              "DocumentMoniker": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj",
-              "RelativeDocumentMoniker": "src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj",
-              "ToolTip": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj",
-              "RelativeToolTip": "src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-29T09:33:24.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "src\\Services\\amadeus.backend.Auth\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\ApplicationDbContext.cs",
-              "RelativeToolTip": "src\\Services\\amadeus.backend.Auth\\ApplicationDbContext.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAowD0AAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T08:49:34.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SinginHandler.cs",
-              "DocumentMoniker": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\UseCases\\Auth\\Singin\\SinginHandler.cs",
-              "RelativeDocumentMoniker": "src\\Services\\amadeus.backend.Auth\\UseCases\\Auth\\Singin\\SinginHandler.cs",
-              "ToolTip": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\UseCases\\Auth\\Singin\\SinginHandler.cs",
-              "RelativeToolTip": "src\\Services\\amadeus.backend.Auth\\UseCases\\Auth\\Singin\\SinginHandler.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAswD8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T09:22:50.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RefreshTokenEndpoint.cs",
-              "DocumentMoniker": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\UseCases\\Auth\\RefreshToken\\RefreshTokenEndpoint.cs",
-              "RelativeDocumentMoniker": "src\\Services\\amadeus.backend.Auth\\UseCases\\Auth\\RefreshToken\\RefreshTokenEndpoint.cs",
-              "ToolTip": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\UseCases\\Auth\\RefreshToken\\RefreshTokenEndpoint.cs",
-              "RelativeToolTip": "src\\Services\\amadeus.backend.Auth\\UseCases\\Auth\\RefreshToken\\RefreshTokenEndpoint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T09:02:47.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Products\\API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\amadeus.backend.Products\\API\\Program.cs",
+              "ToolTip": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Products\\API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\amadeus.backend.Products\\API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:58:33.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\Program.cs",
               "RelativeDocumentMoniker": "src\\Services\\amadeus.backend.Auth\\Program.cs",
               "ToolTip": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\Program.cs",
               "RelativeToolTip": "src\\Services\\amadeus.backend.Auth\\Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAowDUAAAATAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T08:56:19.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SinginEndpoint.cs",
-              "DocumentMoniker": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\UseCases\\Auth\\Singin\\SinginEndpoint.cs",
-              "RelativeDocumentMoniker": "src\\Services\\amadeus.backend.Auth\\UseCases\\Auth\\Singin\\SinginEndpoint.cs",
-              "ToolTip": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\UseCases\\Auth\\Singin\\SinginEndpoint.cs",
-              "RelativeToolTip": "src\\Services\\amadeus.backend.Auth\\UseCases\\Auth\\Singin\\SinginEndpoint.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAQwAkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T09:25:17.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "amadeus.backend.Auth",
-              "DocumentMoniker": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj",
-              "RelativeDocumentMoniker": "src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj",
-              "ToolTip": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj",
-              "RelativeToolTip": "src\\Services\\amadeus.backend.Auth\\amadeus.backend.Auth.csproj",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-29T08:56:45.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\GlobalUsing.cs",
-              "RelativeDocumentMoniker": "src\\Services\\amadeus.backend.Auth\\GlobalUsing.cs",
-              "ToolTip": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\GlobalUsing.cs",
-              "RelativeToolTip": "src\\Services\\amadeus.backend.Auth\\GlobalUsing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T09:02:33.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\Services\\amadeus.backend.Auth\\appsettings.json",
-              "ToolTip": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\Services\\amadeus.backend.Auth\\appsettings.json",
-              "RelativeToolTip": "src\\Services\\amadeus.backend.Auth\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-29T09:00:03.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\BuildingBlocks\\BuildingBlocks\\GlobalUsing.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\GlobalUsing.cs",
-              "ToolTip": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\BuildingBlocks\\BuildingBlocks\\GlobalUsing.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\GlobalUsing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T08:04:44.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LogginBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\BuildingBlocks\\BuildingBlocks\\Behaviours\\LogginBehavior.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\Behaviours\\LogginBehavior.cs",
-              "ToolTip": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\BuildingBlocks\\BuildingBlocks\\Behaviours\\LogginBehavior.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\Behaviours\\LogginBehavior.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAIAxwA8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T08:03:35.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ConflictException.cs",
-              "DocumentMoniker": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\ConflictException.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\ConflictException.cs",
-              "ToolTip": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\ConflictException.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\Exceptions\\ConflictException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T08:03:18.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\BuildingBlocks\\BuildingBlocks\\ModelsBase\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "src\\BuildingBlocks\\BuildingBlocks\\ModelsBase\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\italo\\Documents\\PRUEBA TECNICA\\AMADEUS\\amadeus.backend\\src\\BuildingBlocks\\BuildingBlocks\\ModelsBase\\BaseEntity.cs",
-              "RelativeToolTip": "src\\BuildingBlocks\\BuildingBlocks\\ModelsBase\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T08:03:08.678Z",
+              "WhenOpened": "2024-05-29T23:58:10.66Z",
               "EditorCaption": ""
             }
           ]

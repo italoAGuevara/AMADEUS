@@ -45,11 +45,19 @@ builder.WebHost.UseUrls("http://localhost:5002");
 
 var app = builder.Build();
 
-using (var scope = app.Services.CreateScope())
+try
 {
-    var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
-    dbContext.Database.Migrate();
+    using (var scope = app.Services.CreateScope())
+    {
+        var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+        dbContext.Database.Migrate();
+    }
 }
+catch(Exception ex)
+{
+
+}
+
 
 app.UseCors(_cors);
 

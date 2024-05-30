@@ -1,0 +1,14 @@
+﻿global using Data;
+global using API.Erros;
+global using System.Net;
+global using Application.Exceptions;
+global using Newtonsoft.Json;
+global using Microsoft.AspNetCore.Mvc;
+global using API.Middleware;
+global using Application.Contracts;
+global using BuildingBlockV6.Contracts;
+global using Data.Repositories;
+global using MediatR;
+global using Application.DTO;
+global using Application.UseCases.Product.Queries.GetAllProducts;
+global using Application; 
